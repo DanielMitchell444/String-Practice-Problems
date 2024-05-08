@@ -48,6 +48,8 @@ TYPE YOUR ANSWER BELOW
 
 
 
+
+
 //Practice Problem 4 //
 /* 
 Given a string, we'll say that the 
@@ -61,5 +63,33 @@ If the string length is less than 3, the front is whatever is there.
     front3('Chocolate') → ChoChoCho
     front3('abc') → abcabcabc
 */
+
+
+//Practice Problem 5 //
+/* 
+Given a string, return a new string where "not " has been added to the front. However, if the string already begins with "not", return the string unchanged.
+
+Examples
+
+notString('candy') → not candy
+notString('x') → not x
+notString('not bad') → not bad
+Type the code below
+*/
+
+
+//Practice Problem 6 //
+/*
+Given 2 strings, a and b, return a string of the form short+long+short, with the shorter string on the outside and the longer string on the inside. The strings will not be the same length, but they may be empty (length 0).
+
+Examples
+
+comboString('Hello', 'hi') → hiHellohi
+comboString('Hi', 'Hello') → HiHelloHi
+comboString('aaa', 'b') → baaab
+TYPE YOUR ANSWER BELOW
+*/
+
+
 
 
